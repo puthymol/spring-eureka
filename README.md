@@ -1,1 +1,2 @@
-# spring-eureka
+# Spring Eureka
+## Service Registration and Discovery
